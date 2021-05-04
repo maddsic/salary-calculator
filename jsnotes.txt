@@ -1,0 +1,7 @@
+contenteditable >> allows a p element to behave like an input
+
+document.querySelector(".button").addEventListener("click", event => {
+
+})
+
+

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color:rgba(100, 100, 55, 0.7);
+}
+
+.wrapper{
+    margin: auto;
+}
+
+header{
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+.form, .alert-danger{
+    border-radius: 10px;
+    /* background-color: red; */
+}
+
+.result{
+    display: none;
+    border-radius: 10px;
+    border-color: blue;
+    
+}
+
